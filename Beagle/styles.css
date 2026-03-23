@@ -1,0 +1,22 @@
+.top-section{
+border: 2px solid black;
+margin: 10px;
+padding: 10px;
+}
+
+.image-section{
+margin: 10px;
+padding: 10px;
+}
+
+.trivia-section{
+margin: 10px;
+padding: 10px;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+    display: block;  
+    margin-bottom: 15px; 
+}
